@@ -1,7 +1,6 @@
 # University of Alberta Reinforcement Learning Specialisation
 
 - Course 1: Fundamentals of Reinforcement Learning
-
 Markov Decision Processes, exploration/exploitation tradeoff, value functions, dynamic programming
 
 - Course 2: Sample-based Learning Methods
